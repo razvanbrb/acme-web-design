@@ -1,10 +1,13 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+This is a project basic website design services tutorial project.
+
+It is design  to create  to learn and practices git brances and also html,css.
+
+Anyone who is new in the web are and would want to become a web developer. It is very simple and a good start project.
 
 ## Wireframe
 
