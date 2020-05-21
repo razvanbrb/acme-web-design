@@ -13,7 +13,9 @@ Anyone who is new in the web are and would want to become a web developer. It is
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](Home.png) 
+![wireframe](About.png)
+![wireframe](Services.png)
 
 ## 0. Set-Up
 
@@ -25,17 +27,24 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User story: Header and Navigation
 
-__full user story description__
+__This is the first story for creating the header and navigation section__
 
 ### Repo
 
-what branch(es) did you work on?
+
+This user story was created on a branch  "1-heder-nav"
 
 ### HTML
 
 what did you change in the HTML and why?
+I have add the meta-tag with name viewport to make the site responsive so that could be displayed proper on every device.
+I have add the description and keywords content.
+I have add the autor of the website.
+I add it the link for style-css.
+I add it the header  and navigation pages in the right-side of header.
+
 
 ### CSS
 
