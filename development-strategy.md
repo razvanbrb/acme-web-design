@@ -38,11 +38,15 @@ This user story was created on a branch  "1-heder-nav"
 
 ### HTML
 
-what did you change in the HTML and why?
+
 I have add the meta-tag with name viewport to make the site responsive so that could be displayed proper on every device.
+
 I have add the description and keywords content.
+
 I have add the autor of the website.
+
 I add it the link for style-css.
+
 I add it the header  and navigation pages in the right-side of header.
 
 
