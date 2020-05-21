@@ -13,9 +13,9 @@ Anyone who is new in the web are and would want to become a web developer. It is
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](Home.png) 
-![wireframe](About.png)
-![wireframe](Services.png)
+[wireframe](Home.png) 
+[wireframe](About.png)
+[wireframe](Services.png)
 
 ## 0. Set-Up
 
