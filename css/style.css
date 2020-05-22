@@ -78,6 +78,7 @@ header a:hover{
     font-size: 20px;
 }
 
+/*Newsletter*/
 #newsletter{
 padding: 15px;
 color: #ffffff;
@@ -86,7 +87,6 @@ background:#35424a ;
 #newsletter h1{
     float: left;
 }
-
 #newsletter form{
     float: right;
     margin-top: 15px;
@@ -95,4 +95,18 @@ background:#35424a ;
 padding: 4px;
 height: 25px;
 width: 250px;
+}
+
+/*Boxes*/
+#boxes{
+    margin-top: 20px;
+}
+#boxes .box{
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+#boxes .box img{
+    width: 90px;
 }
