@@ -51,8 +51,9 @@ I add it the header  and navigation pages in the right-side of header.
 
 
 ### CSS
-
-what did you change in the CSS and why?
+ Add  the background of the header.
+ Add the color font.
+ Set the margin and padding properties.
 
 ---
 
@@ -75,6 +76,7 @@ I added the p paragraph to display a slogan for the company
 
 
 ### CSS
+
 
 ---
 
