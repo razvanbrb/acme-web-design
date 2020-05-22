@@ -20,8 +20,11 @@
 ## Minumum requirements to start this project
 
 1.Laptop and internet connection.
+
 2.Git and GitHub account. 
+
 3.Code editor.
+
 4.Motivation, discipline and hard work.
 
 ### Steps of the development
