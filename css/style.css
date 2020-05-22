@@ -81,4 +81,10 @@ background:#35424a ;
 
 #newsletter form{
     float: right;
+    margin-top: 15px;
+}
+#newsletter input[type="email"]{
+padding: 4px;
+height: 25px;
+width: 250px;
 }
