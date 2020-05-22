@@ -10,6 +10,12 @@
 
 - The steps of incremental-development are describe in development-strategy file. 
 
+## Authors and acknowledgment
+
+Web-site of this project is developed by Brad Traversy. 
+
+Here is the link where you can follow up the tutorial project [youtube chanel](https://www.youtube.com/watch?v=Wm6CUkswsNw).
+
  Web-site project consists of 3 pages:
 
  - Home
