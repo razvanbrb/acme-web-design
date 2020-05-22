@@ -54,11 +54,29 @@ I add it the header  and navigation pages in the right-side of header.
 
 what did you change in the CSS and why?
 
-## 2. ...
+---
 
-...
+## 2. User story: Showcase
+__This is the second user story for creating the showcase section__
 
-...
+### Repo
+
+
+This user story was created on a branch  "2-showcase"
+
+
+### HTML
+
+I added the section showcase
+
+I added the div class contianer
+
+I added the p paragraph to display a slogan for the company
+
+
+### CSS
+
+---
 
 ## Finishing Touches
 
