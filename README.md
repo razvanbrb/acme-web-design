@@ -10,6 +10,12 @@
 
 - The steps of incremental-development are describe in development-strategy file. 
 
+## Authors and acknowledgment
+
+Web-site of this project is developed by Brad Traversy. 
+
+Here is the link where you can follow up the tutorial project [youtube chanel](https://www.youtube.com/watch?v=Wm6CUkswsNw).
+
  Web-site project consists of 3 pages:
 
  - Home
@@ -20,8 +26,11 @@
 ## Minumum requirements to start this project
 
 1.Laptop and internet connection.
+
 2.Git and GitHub account. 
+
 3.Code editor.
+
 4.Motivation, discipline and hard work.
 
 ### Steps of the development
