@@ -147,7 +147,7 @@ This section would have 3 boxes HTML, CSS and Graphic design box.
 
 Add the  css margin properties.
 
-Add the  css float properties.
+Add the  css float properties to aling all boxes to left.
 
 Add the  css text-aling properties.
 
@@ -157,6 +157,39 @@ Add the css with properties for img.
 
 ---
 
+## 5. User story: Footer
+
+__This is the third user story for creating the footer section__
+
+### Repo
+
+
+This user story was created on a branch  "5-footer"
+
+
+
+### HTML
+
+ Add the section footer.
+
+
+
+
+
+
+### CSS
+
+Add the  css padding properties.
+
+Add the  css margin-top properties.
+
+Add the  css color properties.
+
+Add the  css background properties.
+
+Add the css with properties for img.
+
+---
 
 
 
