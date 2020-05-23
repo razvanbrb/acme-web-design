@@ -29,6 +29,7 @@ __A User can see my initial repository and live demo__
 
 ## 1. User story: Header and Navigation
 
+
 __This is the first story for creating the header and navigation section__
 
 ### Repo
@@ -58,6 +59,8 @@ I add it the header  and navigation pages in the right-side of header.
 ---
 
 ## 2. User story: Showcase
+
+
 __This is the second user story for creating the showcase section__
 
 ### Repo
@@ -80,7 +83,49 @@ I added the p paragraph to display a slogan for the company.
 Add a background image to the showcase section.
 
 Add white color of the text. 
+
+
+
 ---
+
+## 3. User story: Newsletter
+
+__This is the third user story for creating the newsletter section__
+
+### Repo
+
+
+This user story was created on a branch  "3-newsletter"
+
+
+### HTML
+
+I added the section newsletter.
+
+I added an id because it would be uniq newsletter.
+
+I added a form and within the form added an input where the user can type his email adress and an submit button. 
+
+For the moment the submit button would not creat any event when you click it.
+
+
+### CSS
+
+Add the  css properties for newsletter id.
+
+Add the  css properties for newsletter h1.
+
+Add the  css properties for newsletter form.
+
+Add the  css properties for newsletter.
+
+
+
+---
+
+
+
+
 
 ## Finishing Touches
 
