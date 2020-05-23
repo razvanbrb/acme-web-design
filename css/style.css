@@ -137,6 +137,12 @@ ul#services li{
     margin-bottom: 5px;
     background: #e6e6e6 ;
 }
+
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+    width: 90%;
+    padding: 9px;
+}
+
 /*Footer*/
 footer{
     padding: 20px;
