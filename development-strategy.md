@@ -68,16 +68,18 @@ This user story was created on a branch  "2-showcase"
 
 ### HTML
 
-I added the section showcase
+I added the section showcase.
 
-I added the div class contianer
+I added the div class contianer.
 
-I added the p paragraph to display a slogan for the company
+I added the p paragraph to display a slogan for the company.
 
 
 ### CSS
 
+Add a background image to the showcase section.
 
+Add white color of the text. 
 ---
 
 ## Finishing Touches
