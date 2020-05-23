@@ -68,6 +68,7 @@ __This is the second user story for creating the showcase section__
 
 This user story was created on a branch  "2-showcase"
 
+Add a showcase image background.
 
 ### HTML
 
@@ -83,7 +84,6 @@ I added the p paragraph to display a slogan for the company.
 Add a background image to the showcase section.
 
 Add white color of the text. 
-
 
 
 ---
@@ -122,6 +122,43 @@ Add the  css properties for newsletter.
 
 
 ---
+
+## 4. User story: Boxes
+
+__This is the third user story for creating the boxes section__
+
+### Repo
+
+
+This user story was created on a branch  "4-boxes"
+
+Add a img folder with 4 images HTML logo, CSS logo, Graphic Design logo.
+
+### HTML
+
+I added the section boxes.
+
+This section would have 3 boxes HTML, CSS and Graphic design box.
+
+
+
+
+### CSS
+
+Add the  css margin properties.
+
+Add the  css float properties.
+
+Add the  css text-aling properties.
+
+Add the  css padding properties.
+
+Add the css with properties for img.
+
+---
+
+
+
 
 
 
